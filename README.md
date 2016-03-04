@@ -14,4 +14,4 @@ Bean for RestService
 Java Object for persisting and transforming into bean
 
 see
-![file structure](sanados.github.com/repository/annotations/strutcture explained.png)
+![file structure](https://raw.githubusercontent.com/sanados/annotations/master/strutcture%20explained.png)
