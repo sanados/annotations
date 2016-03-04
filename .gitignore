@@ -1,6 +1,8 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+build
+.idea
 
 # Folder config file
 Desktop.ini
@@ -41,3 +43,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+build/classes/main/com/sanados/test/annotations/structure/DbReference.class
